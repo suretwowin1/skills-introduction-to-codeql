@@ -1,4 +1,5 @@
 # Java 21 Maven web application project
+# test
 
 ### To generate the package
 ```
